@@ -1,0 +1,1 @@
+# add-featured-image-in-postype
