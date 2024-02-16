@@ -1,4 +1,4 @@
-
+<?php
 function uploadFeaturedImage($img) {
   // WordPress environmet
 require( ABSPATH . 'wp-load.php' );
